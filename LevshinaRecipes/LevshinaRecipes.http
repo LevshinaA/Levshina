@@ -1,0 +1,6 @@
+@LevshinaRecipes_HostAddress = http://localhost:5096
+
+GET {{LevshinaRecipes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
